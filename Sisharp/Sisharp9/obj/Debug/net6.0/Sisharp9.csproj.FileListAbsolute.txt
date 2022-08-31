@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\bin\Debug\net6.0\Sisharp9.exe
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\bin\Debug\net6.0\Sisharp9.deps.json
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\bin\Debug\net6.0\Sisharp9.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\bin\Debug\net6.0\Sisharp9.dll
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\bin\Debug\net6.0\Sisharp9.pdb
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.dll
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\refint\Sisharp9.dll
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.pdb
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\Sisharp9.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Csi\Sisharp\Sisharp9\obj\Debug\net6.0\ref\Sisharp9.dll
